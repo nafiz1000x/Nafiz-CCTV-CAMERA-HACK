@@ -38,7 +38,8 @@ python "Nafiz Camera hack.py"
 📺 ভিডিও দেখুন
 
 এই টুলটি কিভাবে ব্যবহার করবেন তা ভিডিওতে দেখানো হয়েছে।
-👉 ভিডিও লিংক: (এখানে পরে আপনার ভিডিও লিংক যোগ করুন)
+👉 ভিডিও লিংক: https://t.me/nafizsheikhtech/434
+https://t.me/nafizsheikhtech/434
 
 ---
 
@@ -68,3 +69,16 @@ python "Nafiz Camera hack.py"
 © Credit
 
 Developer : Nafiz Sheikh
+
+App Link
+
+
+Dmss apk👇https://t.me/nafizsheikhtech/432
+https://t.me/nafizsheikhtech/432
+
+
+
+Hic - connect 👇
+https://play.google.com/store/apps/details?id=com.connect.enduser&referrer=utm_source%3Dapps.facebook.com%26utm_campaign%3Dfb4a%26utm_content%3D%257B%2522app%2522%253A0%252C%2522t%2522%253A1773649176%252C%2522source%2522%253Anull%257D
+
+লিং থেকে আ্যাপ গুলো ইন্সটল করুন।

@@ -9,7 +9,7 @@
 
 Nafiz Sheikh
 
-Telegram Channel:
+📢 Telegram Channel:
 https://t.me/nafizsheikhtech
 
 ---
@@ -18,27 +18,31 @@ https://t.me/nafizsheikhtech
 
 নিচের কমান্ডগুলো Termux / Linux এ ব্যবহার করতে পারবেন।
 
+```bash
 pip install requests colorama urllib3
+```
+
+```bash
 git clone https://github.com/nafiz1000x/Nafiz-CCTV-CAMERA-HACK.git
+```
+
+```bash
 cd Nafiz-CCTV-CAMERA-HACK
+```
+
+```bash
 python "Nafiz Camera hack.py"
+```
 
 ---
 
 📺 ভিডিও দেখুন
 
 এই টুলটি কিভাবে ব্যবহার করবেন তা ভিডিওতে দেখানো হয়েছে।
-
 👉 ভিডিও লিংক: (এখানে পরে আপনার ভিডিও লিংক যোগ করুন)
 
 ---
 
-📌 Features
-
-- Simple CLI Interface
-- Easy to Use
-- Termux Supported
-- Python Based Tool
 
 ---
 
@@ -58,8 +62,7 @@ python "Nafiz Camera hack.py"
 📢 Join Telegram
 
 আমাদের টেলিগ্রাম চ্যানেলে যুক্ত হন:
-
-https://t.me/nafizsheikhtech
+👉 https://t.me/nafizsheikhtech
 
 ---
 

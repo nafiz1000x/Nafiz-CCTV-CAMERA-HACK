@@ -18,16 +18,9 @@ https://t.me/nafizsheikhtech
 
 নিচের কমান্ডগুলো Termux / Linux এ ব্যবহার করতে পারবেন।
 
-1️⃣ Repository Clone করুন
-
+pip install requests colorama urllib3
 git clone https://github.com/nafiz1000x/Nafiz-CCTV-CAMERA-HACK.git
-
-2️⃣ Project Folder এ যান
-
 cd Nafiz-CCTV-CAMERA-HACK
-
-3️⃣ Tool Run করুন
-
 python "Nafiz Camera hack.py"
 
 ---
